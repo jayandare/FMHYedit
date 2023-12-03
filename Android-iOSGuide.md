@@ -8,6 +8,38 @@
 
 ***
 ***
+► iOS Apps
+
+* ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
+* ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
+* ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
+* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
+* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1
+* [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
+* [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
+* [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
+* [fnd](https://fnd.io/) - App Store Search
+* [TweakBox](https://www.tweakboxapp.com/) - App Store
+* [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
+* [BuildStore](https://builds.io/) - App Store
+* [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
+* [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
+* [ioshaven](https://ioshaven.com/apps) - App Store 
+* [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
+* [paxcex](https://paxcex.github.io/) - App Repository
+* [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
+* [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
+* [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
+* [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
+* [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
+* [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
+* [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
+* [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - App Sideload Files
+* [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
+* [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
+* [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
+* [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
+
 ## ▷ iOS Jailbreaking
 
 * ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
@@ -111,38 +143,7 @@
 
 ***
 
-# ► iOS Apps
-
-* ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
-* ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
-* ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
-* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
-* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1
-* [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
-* [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
-* [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
-* [fnd](https://fnd.io/) - App Store Search
-* [TweakBox](https://www.tweakboxapp.com/) - App Store
-* [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
-* [BuildStore](https://builds.io/) - App Store
-* [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
-* [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
-* [ioshaven](https://ioshaven.com/apps) - App Store 
-* [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
-* [paxcex](https://paxcex.github.io/) - App Repository
-* [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
-* [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
-* [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
-* [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
-* [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
-* [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
-* [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
-* [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - App Sideload Files
-* [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
-* [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
-* [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
-* [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
-
+# 
 ***
 
 # ► iOS Audio
